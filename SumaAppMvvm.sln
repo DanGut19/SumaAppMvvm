@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaAppMvvm", "SumaAppMvvm\SumaAppMvvm.csproj", "{1E5C22B8-987F-4154-9B6D-DA1D69C69D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E5C22B8-987F-4154-9B6D-DA1D69C69D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5C22B8-987F-4154-9B6D-DA1D69C69D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5C22B8-987F-4154-9B6D-DA1D69C69D86}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1E5C22B8-987F-4154-9B6D-DA1D69C69D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5C22B8-987F-4154-9B6D-DA1D69C69D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5C22B8-987F-4154-9B6D-DA1D69C69D86}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A88447-862F-451E-BAE1-FBBCF8141A10}
+	EndGlobalSection
+EndGlobal
